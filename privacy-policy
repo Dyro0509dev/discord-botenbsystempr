@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Datenschutzerklärung – Mein Discord Bot</title>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+  <p>Diese Datenschutzerklärung klärt dich über die Art, den Umfang und Zweck der Erhebung und Verwendung personenbezogener Daten durch den Discord Bot „Mein Bot“ auf.</p>
+  <h2>1. Verantwortlicher</h2>
+  <p>Damion Developer<br>
+  E-Mail: kontakt@damiondeveloper.de</p>
+  <h2>2. Erhebung und Speicherung personenbezogener Daten</h2>
+  <ul>
+    <li>Discord-Nutzer-ID</li>
+    <li>Server-ID</li>
+    <li>Befehlslogs (Datum, Uhrzeit, genutzter Befehl)</li>
+  </ul>
+  <p>Die Daten werden ausschließlich für Betriebs- und Fehleranalysezwecke verwendet.</p>
+  <h2>3. Weitergabe an Dritte</h2>
+  <p>Es erfolgt keine Weitergabe an Dritte, es sei denn, du hast ausdrücklich zugestimmt oder es besteht eine gesetzliche Verpflichtung.</p>
+  <h2>4. Speicherdauer</h2>
+  <p>Gespeicherte Logs werden nach 30 Tagen automatisch gelöscht.</p>
+  <h2>5. Deine Rechte</h2>
+  <p>Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner Daten.</p>
+  <h2>Kontakt</h2>
+  <p>Bei Fragen zur Datenschutzerklärung wende dich an kontakt@damiondeveloper.de.</p>
+</body>
+</html>
